@@ -22,7 +22,7 @@ const config = {
 	blur: 5, // 毛玻璃模糊效果
 
 	// 我的标签
-	tags: ['乐观开朗', '温柔体贴', '随和亲切', '冷静沉着', '才思敏捷', '风趣幽默', '刚正不阿', '善解人意'],
+	tags: ['懒卧寻梦', '温柔体贴', '随和亲切', '冷静沉着', '追番看漫', '次元漫游', '阅文觅趣', '善解人意'],
 
 	// 默认背景壁纸
 	background: {
@@ -55,7 +55,7 @@ const config = {
 	socialPlatformIcons: [
 		{ icon: "mdi-github", link: "https://www.github.com/leleo886" },
 		{ icon: "mdi-email", link: "mailto:leleo886@foxmail.com" },
-		{ icon: "mdi-qqchat", link: "https://im.qq.com/" },
+		{ icon: "mdi-qqchat", link: "https://qm.qq.com/q/F8qRhpJs1a/" },
 		{ icon: "mdi-wechat", link: "https://wx.qq.com/" },
 		{ icon: "mdi-youtube", link: "https://www.youtube.com" },
 		{ icon: "mdi-facebook", link: "https://www.facebook.com" }
