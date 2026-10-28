@@ -140,7 +140,7 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "个人主页", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://wdzy.j3.ink/", show: false },
+		{ go: "🚀 前往", img: "/img/pic1.jpg", title: "个人主页", subtitle: "精美的个人主页", text: "在互联网留一处自留地，记录想法，归档文件，珍藏歌单。很高兴与你在此相遇", url: "http://wdzy.j3.ink/", show: false },
 		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "沉浸画廊", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://185.242.233.231:8080/", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "聚合工具", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://jhgj.bbroot.com", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "文本处理", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "http://fg.ota8a.cn/", show: false },
